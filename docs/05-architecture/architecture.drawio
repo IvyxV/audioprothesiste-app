@@ -1,0 +1,186 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Uh5zToySakKgpC78NJwd">
+    <mxGraphModel dx="1855" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="305" width="541.96" x="90" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API ASP.NET Core" vertex="1">
+          <mxGeometry height="30" width="180" x="195" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-20" edge="1" parent="1" source="TzzFa-Hsh9GwOXcZc-ny-41" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="TzzFa-Hsh9GwOXcZc-ny-63" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="339" y="970" as="sourcePoint" />
+            <mxPoint x="339" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-30" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="135" width="340" x="185" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-1" parent="TzzFa-Hsh9GwOXcZc-ny-30" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="135" width="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-25" parent="TzzFa-Hsh9GwOXcZc-ny-30" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Application Angular" vertex="1">
+          <mxGeometry height="30" width="115.83340430968401" x="111.00701246344718" y="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-26" parent="TzzFa-Hsh9GwOXcZc-ny-30" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Navigateur du client / poste du cabinet" vertex="1">
+          <mxGeometry height="30" width="212.36124123442067" x="63.81455299094343" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-31" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="70" width="130" x="360" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-6" connectable="0" parent="TzzFa-Hsh9GwOXcZc-ny-31" style="group" value="" vertex="1">
+          <mxGeometry height="70" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-8" parent="TzzFa-Hsh9GwOXcZc-ny-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2. HTTPS : API REST en JSON + jeton JWT" vertex="1">
+          <mxGeometry height="30" width="128.92561983471074" x="1.0743801652892562" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-7" edge="1" parent="TzzFa-Hsh9GwOXcZc-ny-31" source="TzzFa-Hsh9GwOXcZc-ny-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TzzFa-Hsh9GwOXcZc-ny-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-80" as="sourcePoint" />
+            <mxPoint x="-80" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-35" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="82.5" width="180" x="730" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-32" parent="TzzFa-Hsh9GwOXcZc-ny-35" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="82.5" width="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-33" parent="TzzFa-Hsh9GwOXcZc-ny-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Nginx" vertex="1">
+          <mxGeometry height="30" width="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-34" parent="TzzFa-Hsh9GwOXcZc-ny-35" style="text;whiteSpace=wrap;html=1;" value="fichiers Angular" vertex="1">
+          <mxGeometry height="40" width="90" x="45" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-38" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="155" x="554.46" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-36" edge="1" parent="TzzFa-Hsh9GwOXcZc-ny-38" source="TzzFa-Hsh9GwOXcZc-ny-1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="TzzFa-Hsh9GwOXcZc-ny-32" value="">
+          <mxGeometry relative="1" width="100" x="0.1431" as="geometry">
+            <Array as="points">
+              <mxPoint x="265.53999999999996" y="30" />
+            </Array>
+            <mxPoint x="-23.350000000000023" y="19.5" as="sourcePoint" />
+            <mxPoint x="76.64999999999998" y="19.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Contrôleurs" vertex="1">
+          <mxGeometry height="40" width="160" x="202.5" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Services métier" vertex="1">
+          <mxGeometry height="40" width="160" x="202.5" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Accès aux données" vertex="1">
+          <mxGeometry height="40" width="160" x="202.5" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-45" edge="1" parent="1" source="TzzFa-Hsh9GwOXcZc-ny-39" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TzzFa-Hsh9GwOXcZc-ny-40" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="422.5" y="650" as="sourcePoint" />
+            <mxPoint x="422.5" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-46" edge="1" parent="1" source="TzzFa-Hsh9GwOXcZc-ny-40" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TzzFa-Hsh9GwOXcZc-ny-41" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="122.5" y="700" as="sourcePoint" />
+            <mxPoint x="222.5" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1. HTTPS : télécharge l&#39;appli" vertex="1">
+          <mxGeometry height="30" width="155" x="610" y="302.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-52" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="690" width="910" x="40" y="380" as="geometry">
+            <mxRectangle height="40" width="50" x="40" y="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-53" parent="TzzFa-Hsh9GwOXcZc-ny-52" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Serveur d’hébergement (docker-compose)" vertex="1">
+          <mxGeometry height="40" width="155" x="10" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-54" parent="TzzFa-Hsh9GwOXcZc-ny-52" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="100" width="340" x="560" y="10" as="geometry">
+            <mxRectangle height="40" width="50" x="40" y="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-55" parent="TzzFa-Hsh9GwOXcZc-ny-54" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="conteneur" vertex="1">
+          <mxGeometry height="30" width="78.89" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-56" parent="TzzFa-Hsh9GwOXcZc-ny-52" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="360" width="590" x="10" y="130" as="geometry">
+            <mxRectangle height="40" width="50" x="40" y="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-57" parent="TzzFa-Hsh9GwOXcZc-ny-56" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="conteneur" vertex="1">
+          <mxGeometry height="30" width="78.89" x="10" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-42" parent="TzzFa-Hsh9GwOXcZc-ny-56" style="rounded=0;whiteSpace=wrap;html=1;" value="Tâche de fond" vertex="1">
+          <mxGeometry height="40" width="160" x="380" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-60" parent="TzzFa-Hsh9GwOXcZc-ny-52" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="120" width="140" x="240" y="560" as="geometry">
+            <mxRectangle height="40" width="50" x="40" y="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-61" parent="TzzFa-Hsh9GwOXcZc-ny-60" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="conteneur" vertex="1">
+          <mxGeometry height="30" width="78.89" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-63" parent="TzzFa-Hsh9GwOXcZc-ny-60" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="MongoDB" vertex="1">
+          <mxGeometry height="82.5" width="70" x="53" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-58" parent="TzzFa-Hsh9GwOXcZc-ny-52" style="swimlane;startSize=0;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="120" width="140" x="60" y="560" as="geometry">
+            <mxRectangle height="40" width="50" x="40" y="390" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-59" parent="TzzFa-Hsh9GwOXcZc-ny-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="conteneur" vertex="1">
+          <mxGeometry height="30" width="78.89" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-62" parent="TzzFa-Hsh9GwOXcZc-ny-58" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="PostgreSQL" vertex="1">
+          <mxGeometry height="82.5" width="70" x="50.00000000000001" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-68" parent="TzzFa-Hsh9GwOXcZc-ny-52" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SMTP" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-65" parent="TzzFa-Hsh9GwOXcZc-ny-52" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="protocole MongoDB" vertex="1">
+          <mxGeometry height="30" width="60" x="300" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-67" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="145" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-19" edge="1" parent="TzzFa-Hsh9GwOXcZc-ny-67" source="TzzFa-Hsh9GwOXcZc-ny-41" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="TzzFa-Hsh9GwOXcZc-ny-62" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="14.5" y="70" as="sourcePoint" />
+            <mxPoint x="14.5" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-64" parent="TzzFa-Hsh9GwOXcZc-ny-67" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SQL" vertex="1">
+          <mxGeometry height="30" width="60" x="15" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-72" edge="1" parent="1" source="TzzFa-Hsh9GwOXcZc-ny-42" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="TzzFa-Hsh9GwOXcZc-ny-40" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="980" y="780" as="sourcePoint" />
+            <mxPoint x="1080" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-73" edge="1" parent="1" source="TzzFa-Hsh9GwOXcZc-ny-40" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TzzFa-Hsh9GwOXcZc-ny-24" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1080" y="730" as="sourcePoint" />
+            <mxPoint x="1180" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Serveur email" vertex="1">
+          <mxGeometry height="40" width="104.46" x="640" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="TzzFa-Hsh9GwOXcZc-ny-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(service externe)" vertex="1">
+          <mxGeometry height="30" width="104.46" x="640" y="1120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

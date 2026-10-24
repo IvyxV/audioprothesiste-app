@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Audioprothesiste.Api/Audioprothesiste.Api.csproj" />
+    <Project Path="src/Audioprothesiste.Data/Audioprothesiste.Data.csproj" />
+    <Project Path="src/Audioprothesiste.Services/Audioprothesiste.Services.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Audioprothesiste.Tests/Audioprothesiste.Tests.csproj" />
+  </Folder>
+</Solution>
